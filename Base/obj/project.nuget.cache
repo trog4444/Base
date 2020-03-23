@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qPIkyOm5AkoFxlsAdHtndXW9aKN1HFy2Xon9/qgbQepCLMI9kfvwR2oIX+SkLSI+r/sVeHSbbTHMEi2t7M8viA==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\github\\Base\\Base\\Base.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tyler\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

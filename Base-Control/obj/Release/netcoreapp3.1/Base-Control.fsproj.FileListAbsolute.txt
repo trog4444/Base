@@ -1,0 +1,12 @@
+C:\repos\github\Base\Base-Control\bin\Release\netcoreapp3.1\Base-Control.deps.json
+C:\repos\github\Base\Base-Control\bin\Release\netcoreapp3.1\Base-Control.dll
+C:\repos\github\Base\Base-Control\bin\Release\netcoreapp3.1\Base-Control.pdb
+C:\repos\github\Base\Base-Control\bin\Release\netcoreapp3.1\Base.dll
+C:\repos\github\Base\Base-Control\bin\Release\netcoreapp3.1\Base.pdb
+C:\repos\github\Base\Base-Control\bin\Release\netcoreapp3.1\Base.xml
+C:\repos\github\Base\Base-Control\obj\Release\netcoreapp3.1\Base-Control.fsprojAssemblyReference.cache
+C:\repos\github\Base\Base-Control\obj\Release\netcoreapp3.1\Base-Control.AssemblyInfoInputs.cache
+C:\repos\github\Base\Base-Control\obj\Release\netcoreapp3.1\Base-Control.AssemblyInfo.fs
+C:\repos\github\Base\Base-Control\obj\Release\netcoreapp3.1\Base-Control.fsproj.CopyComplete
+C:\repos\github\Base\Base-Control\obj\Release\netcoreapp3.1\Base-Control.dll
+C:\repos\github\Base\Base-Control\obj\Release\netcoreapp3.1\Base-Control.pdb

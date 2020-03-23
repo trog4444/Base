@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>rogz</Authors>
+    <Description>Simple types and related functions which are useful in general programming. More elaborate processing can be built on type of the 'Base' data.</Description>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>bin\Release\netcoreapp3.1\Base.XML</DocumentationFile>
+    <OutputPath>bin\Release\</OutputPath>
+    <WarningLevel>5</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Revisions.txt" />
+    <None Include="BaseModuleTemplate.txt" />
+    <Compile Include="Newtypes\Cont.fs" />
+    <Compile Include="Newtypes\Either.fs" />
+    <Compile Include="Newtypes\Maybe.fsi" />
+    <Compile Include="Newtypes\Maybe.fs" />
+    <Compile Include="Newtypes\Reader.fs" />
+    <Compile Include="Newtypes\State.fs" />
+  </ItemGroup>
+
+</Project>

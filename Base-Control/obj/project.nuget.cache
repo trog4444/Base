@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pfzAO0knvp7YE3PYsvBNGU8bgT+6ajGZ8SDtHNzVEVKX/0G1VPTLD+hH3b4UuuNMfc0W8CxvL9fxHVrlGR+wrA==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\github\\Base\\Base-Control\\Base-Control.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tyler\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

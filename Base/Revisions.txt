@@ -1,0 +1,4 @@
+﻿2020-03-22
+    - created | this is an attempt to reorganize the entire module/namespace structure
+        - also based on the fact that many of these 'simple' types and their instances are in the Haskell Prelude.
+    - began adding Maybe

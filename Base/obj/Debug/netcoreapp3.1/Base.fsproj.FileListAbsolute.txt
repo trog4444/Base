@@ -1,0 +1,7 @@
+C:\repos\github\Base\Base\bin\Debug\netcoreapp3.1\Base.deps.json
+C:\repos\github\Base\Base\bin\Debug\netcoreapp3.1\Base.dll
+C:\repos\github\Base\Base\bin\Debug\netcoreapp3.1\Base.pdb
+C:\repos\github\Base\Base\obj\Debug\netcoreapp3.1\Base.AssemblyInfoInputs.cache
+C:\repos\github\Base\Base\obj\Debug\netcoreapp3.1\Base.AssemblyInfo.fs
+C:\repos\github\Base\Base\obj\Debug\netcoreapp3.1\Base.dll
+C:\repos\github\Base\Base\obj\Debug\netcoreapp3.1\Base.pdb

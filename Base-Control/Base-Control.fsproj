@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Base_Control</RootNamespace>
+    <Authors>rogz</Authors>
+    <Description>Compositional functions for "effectful" types.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Maybe.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Base\Base.fsproj" />
+  </ItemGroup>
+
+</Project>

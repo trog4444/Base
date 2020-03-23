@@ -1,0 +1,82 @@
+﻿namespace Rogz.Base
+
+
+<type definition>
+
+
+<type synonymn (suffix version) if appropriate>
+
+
+module <TypeName> =
+
+// Primitive
+
+
+// ?Conversion(s)
+
+
+// Functor
+    // map
+
+
+// Contrafunctor
+    // contramap
+
+
+// Bifunctor
+    // bimap
+    // first
+
+
+// Profunctor
+    // dimap
+    // rmap
+
+
+// Applicative
+    // unit
+    // map2
+    // map3
+    // traverse, traverse_ (over seqs)
+    // sequence, sequence_ (over seqs)
+    // zipWith, zipWith_ (over seqs)
+
+
+// Alternative
+    // empty
+    // orElse
+    // orElseWith
+    // concat (over seqs)   -- concat IS asum / msum
+    // optional
+
+
+// Monad
+    // bind
+    // flatten
+    // $Builder
+    // val : Builder
+    // foldM (over seqs)
+    // foldM_ (over seqs)
+    // foldBackM (over seqs)
+    // foldBackM_ (over seqs)
+    
+
+
+// MonadPlus
+    // guard
+    // join
+    // filter
+
+
+// Foldable
+    // fold
+    // foldBack
+    // mapFold
+    // mapFoldBack
+
+// Bifoldable
+    // bifold
+    // bifoldBack
+
+
+// Note* -- Semigroup and Monoid are removed because I am not going to use ANY duck-typing (ie statically resolved constraints).

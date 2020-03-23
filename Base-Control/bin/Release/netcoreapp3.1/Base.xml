@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>Base</name></assembly>
+<members>
+<member name="T:Rogz.Base.maybe`1">
+ <summary></summary>
+</member>
+<member name="T:Rogz.Base.Maybe`1">
+ <summary></summary> 
+</member>
+<member name="M:Rogz.Base.Maybe.concat``2(``0)">
+ <summary></summary>
+</member>
+<member name="M:Rogz.Base.Maybe.orElse'``1(Microsoft.FSharp.Core.FSharpFunc{Microsoft.FSharp.Core.Unit,Rogz.Base.Maybe{``0}},Rogz.Base.Maybe{``0})">
+ <summary></summary>
+</member>
+<member name="M:Rogz.Base.Maybe.orElse``1(Rogz.Base.Maybe{``0},Rogz.Base.Maybe{``0})">
+ <summary></summary>
+</member>
+<member name="M:Rogz.Base.Maybe.empty``1">
+ <summary></summary>
+</member>
+<member name="M:Rogz.Base.Maybe.sequence_``2(``0)">
+ <summary></summary>
+</member>
+<member name="M:Rogz.Base.Maybe.map3``4(Microsoft.FSharp.Core.FSharpFunc{``0,Microsoft.FSharp.Core.FSharpFunc{``1,Microsoft.FSharp.Core.FSharpFunc{``2,``3}}},Rogz.Base.Maybe{``0},Rogz.Base.Maybe{``1},Rogz.Base.Maybe{``2})">
+ <summary></summary>
+</member>
+<member name="M:Rogz.Base.Maybe.map2``3(Microsoft.FSharp.Core.FSharpFunc{``0,Microsoft.FSharp.Core.FSharpFunc{``1,``2}},Rogz.Base.Maybe{``0},Rogz.Base.Maybe{``1})">
+ <summary></summary>
+</member>
+<member name="M:Rogz.Base.Maybe.unit``1(``0)">
+ <summary></summary>
+</member>
+<member name="M:Rogz.Base.Maybe.map``2(Microsoft.FSharp.Core.FSharpFunc{``0,``1},Rogz.Base.Maybe{``0})">
+ <summary></summary>
+</member>
+<member name="M:Rogz.Base.Maybe.toSeq``1(Rogz.Base.Maybe{``0})">
+ <summary></summary>
+</member>
+<member name="M:Rogz.Base.Maybe.ofNullable``1(System.Nullable{``0})">
+ <summary></summary>
+</member>
+<member name="M:Rogz.Base.Maybe.ofObj``1(``0)">
+ <summary></summary>
+</member>
+<member name="M:Rogz.Base.Maybe.mapMaybes``3(Microsoft.FSharp.Core.FSharpFunc{``0,Rogz.Base.Maybe{``1}},``2)">
+ <summary></summary>
+</member>
+<member name="M:Rogz.Base.Maybe.fromMaybe'``1(Microsoft.FSharp.Core.FSharpFunc{Microsoft.FSharp.Core.Unit,``0},Rogz.Base.Maybe{``0})">
+ <summary></summary>
+</member>
+<member name="M:Rogz.Base.Maybe.fromMaybe``1(``0,Rogz.Base.Maybe{``0})">
+ <summary></summary>
+</member>
+<member name="M:Rogz.Base.Maybe.caseof``2(Microsoft.FSharp.Core.FSharpFunc{``0,``1},Microsoft.FSharp.Core.FSharpFunc{Microsoft.FSharp.Core.Unit,``1},Rogz.Base.Maybe{``0})">
+ <summary></summary>
+</member>
+<member name="M:Rogz.Base.Maybe.isNothing``1(Rogz.Base.Maybe{``0})">
+ <summary></summary>
+</member>
+<member name="M:Rogz.Base.Maybe.isJust``1(Rogz.Base.Maybe{``0})">
+ <summary></summary>
+</member>
+<member name="T:Rogz.Base.Maybe">
+ <summary></summary>
+</member>
+</members>
+</doc>
